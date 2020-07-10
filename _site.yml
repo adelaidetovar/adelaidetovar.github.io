@@ -20,3 +20,4 @@ output:
     include:
       before_body: header.html
       after_body: footer.html
+      in_header: favicon.html
