@@ -1,0 +1,22 @@
+---
+title: ""
+output:
+  html_document:
+    toc: no
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+# Publications
+
+### Peer-Reviewed
+
+J2. **A Tovar**\*, GJ Smith\*, JM Thomas, WL Crouse, J Harkema, SNP Kelada. [Transcriptional profiling of the murine airway response to acute ozone exposure.](https://academic.oup.com/toxsci/article/173/1/114/5593669) *Toxicol Sci* 2020. 173(1),114-130. \*co-first author
+
+J1. M Weiser, JM Simon, B Kochar, **A Tovar**, JW Israel, A Robinson, GR Gipson, MS Schaner, HH Herfarth, RB Sartor, DPB McGovern, R Rahbar, TS Sadiq, MJ Koruda, TS Furey, SZ Sheikh. [Molecular classification of Crohns disease reveals two clinically relevant subtypes.](https://gut.bmj.com/content/67/1/36.abstract) *Gut* 2018. 67(1), 36-42.
+
+### Preprints
+
+P2. GJ Smith, **A Tovar**, M Kanke, P Sethupathy, SNP Kelada. [Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.](https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1) *bioRxiv*, deposited June 17 2020.
+
+P1. LT Laudermilk, **A Tovar**, AK Homstad, JM Thomas, KM McFadden, MK Tune, DO Cowley, JR Mock, F Ideraabdullah, SNP Kelada. [Baseline and innate immune response characterization of a Zfp30 knockout mouse strain.](https://www.biorxiv.org/content/10.1101/2020.06.17.154526v1) *bioRxiv*, deposited June 17 2020.

@@ -1,0 +1,22 @@
+name: "Adelaide Tovar"
+output_dir: "."
+navbar:
+  title: "Adelaide Tovar"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "CV"
+      href: files/adelaide-cv.pdf
+  right:
+    - icon: fa-envelope
+      href: mailto:edialeda@email.unc.edu
+    - icon: fa-twitter
+      href: https://twitter.com/ade__lady
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    css: 'styles.css'
+    include:
+      before_body: header.html
+      after_body: footer.html
