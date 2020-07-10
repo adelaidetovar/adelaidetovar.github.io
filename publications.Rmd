@@ -3,6 +3,7 @@ title: ""
 output:
   html_document:
     toc: no
+pagetitle: "Adelaide Tovar - Publications"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
