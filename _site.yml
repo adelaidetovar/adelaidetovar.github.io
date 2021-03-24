@@ -1,7 +1,7 @@
-name: "Adelaide Tovar"
+name: "Adelaide Tovar, Ph.D."
 output_dir: "."
 navbar:
-  title: "Adelaide Tovar"
+  title: "Adelaide Tovar, Ph.D."
   left:
     - text: "Publications"
       href: publications.html
@@ -9,8 +9,8 @@ navbar:
       href: files/adelaide-cv.pdf
   right:
     - icon: fa-envelope
-      href: mailto:edialeda@email.unc.edu
-    - icon: fa-twitter
+      href: mailto:tovar@umich.edu
+    - icon: fa-twitter-square
       href: https://twitter.com/ade__lady
 output:
   html_document:
