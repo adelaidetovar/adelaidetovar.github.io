@@ -3,17 +3,17 @@ title: ""
 output:
   html_document:
     toc: no
-pagetitle: "Adelaide Tovar"
+pagetitle: "Adelaide Tovar, Ph.D."
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/main.JPG" style="width:50%; border:1px solid; margin-right: 20px" align="left">
+<img src="images/main.JPG" style="width:40%; border:1px solid; margin-right: 20px" align="left">
 
-### **I am a Doctoral Candidate in [Genetics & Molecular Biology](http://gmb.unc.edu/) at The University of North Carolina at Chapel Hill.**
+### **I am a Postdoctoral Fellow in the [Parker](http://theparkerlab.org/) and [Kitzman](https://medicine.umich.edu/dept/human-genetics/jacob-kitzman-phd) labs at the University of Michigan.**
 
-#### My research interests center around understanding and investigating the contributions of genetic and environmental factors to complex phenotypes and disease processes. I have a particular fondness for the immune system.
+#### My research interests center around understanding and investigating the contributions of genetic and environmental factors to complex phenotypes and disease processes, with an emphasis on activities of the non-coding genome.
 
-In spring 2016, I joined the lab of [Dr. Samir Kelada](http://keladalab.web.unc.edu/). For my dissertation research, I use a variety of experimental and computational approaches to identify mechanisms that contribute to ozone-induced respiratory toxicity. One aim of my work is to better understand the inflammatory, transcriptional, and epigenomic dynamics of ozone-exposed airway macrophages. Additionally, I work with a genetically diverse population of mice known as the [Collaborative Cross](http://csbio.unc.edu/CCstatus/index.py) to identify genetic loci that modify responses to ozone exposure.
+I received my Ph.D. from the University of North Carolina in February 2021, where I completed my dissertation research in the lab of [Dr. Samir Kelada](http://keladalab.web.unc.edu/). While there, I used a variety of experimental and computational approaches to identify mechanisms that contribute to ozone-induced respiratory toxicity. One aim of my work was to better understand the inflammatory, transcriptional, and epigenomic dynamics of ozone-exposed airway macrophages. Furthermore, I worked with a genetically diverse population of mice known as the [Collaborative Cross](http://csbio.unc.edu/CCstatus/index.py) to identify genetic loci that modify responses to ozone exposure.
 
 I earned an S.B. in Course 7 - Biology from the Massachusetts Institute of Technology in spring 2015. As an undergraduate, I worked in the lab of [Dr. Darrell Irvine](https://irvine-lab.mit.edu/) and was mentored by [Dr. Greg Szeto](http://gregoryszeto.com/). I studied the aryl hydrocarbon receptor and its roles in innate and adaptive immunity. My work also involved the development and utilization of biocompatible drug delivery formulations for research and cancer immunotherapy.

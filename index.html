@@ -36,6 +36,15 @@
 
 <link rel="shortcut icon" href="images/icon.png">
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -80,6 +89,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -295,13 +305,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:edialeda@email.unc.edu">
-    <span class="fa fa-envelope"></span>
+    <span class="fas fa-envelope"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/ade__lady">
-    <span class="fa fa-twitter"></span>
+    <span class="fas fa-twitter"></span>
      
   </a>
 </li>
@@ -320,12 +330,12 @@ $(document).ready(function () {
 
 
 <p><link rel="stylesheet" href="styles.css" type="text/css"></p>
-<p><img src="images/main.JPG" style="width:50%; border:1px solid; margin-right: 20px" align="left"></p>
-<div id="i-am-a-doctoral-candidate-in-genetics-molecular-biology-at-the-university-of-north-carolina-at-chapel-hill." class="section level3">
-<h3><strong>I am a Doctoral Candidate in <a href="http://gmb.unc.edu/">Genetics &amp; Molecular Biology</a> at The University of North Carolina at Chapel Hill.</strong></h3>
-<div id="my-research-interests-center-around-understanding-and-investigating-the-contributions-of-genetic-and-environmental-factors-to-complex-phenotypes-and-disease-processes.-i-have-a-particular-fondness-for-the-immune-system." class="section level4">
-<h4>My research interests center around understanding and investigating the contributions of genetic and environmental factors to complex phenotypes and disease processes. I have a particular fondness for the immune system.</h4>
-<p>In spring 2016, I joined the lab of <a href="http://keladalab.web.unc.edu/">Dr. Samir Kelada</a>. For my dissertation research, I use a variety of experimental and computational approaches to identify mechanisms that contribute to ozone-induced respiratory toxicity. One aim of my work is to better understand the inflammatory, transcriptional, and epigenomic dynamics of ozone-exposed airway macrophages. Additionally, I work with a genetically diverse population of mice known as the <a href="http://csbio.unc.edu/CCstatus/index.py">Collaborative Cross</a> to identify genetic loci that modify responses to ozone exposure.</p>
+<p><img src="images/main.JPG" style="width:40%; border:1px solid; margin-right: 20px" align="left"></p>
+<div id="i-am-a-postdoctoral-fellow-in-the-parker-and-kitzman-labs-at-the-university-of-michigan." class="section level3">
+<h3><strong>I am a Postdoctoral Fellow in the <a href="http://theparkerlab.org/">Parker</a> and <a href="https://medicine.umich.edu/dept/human-genetics/jacob-kitzman-phd">Kitzman</a> labs at the University of Michigan.</strong></h3>
+<div id="my-research-interests-center-around-understanding-and-investigating-the-contributions-of-genetic-and-environmental-factors-to-complex-phenotypes-and-disease-processes-with-an-emphasis-on-activities-of-the-non-coding-genome." class="section level4">
+<h4>My research interests center around understanding and investigating the contributions of genetic and environmental factors to complex phenotypes and disease processes, with an emphasis on activities of the non-coding genome.</h4>
+<p>I received my Ph.D. from the University of North Carolina in February 2021, where I completed my dissertation research in the lab of <a href="http://keladalab.web.unc.edu/">Dr. Samir Kelada</a>. While there, I used a variety of experimental and computational approaches to identify mechanisms that contribute to ozone-induced respiratory toxicity. One aim of my work was to better understand the inflammatory, transcriptional, and epigenomic dynamics of ozone-exposed airway macrophages. Furthermore, I worked with a genetically diverse population of mice known as the <a href="http://csbio.unc.edu/CCstatus/index.py">Collaborative Cross</a> to identify genetic loci that modify responses to ozone exposure.</p>
 <p>I earned an S.B. in Course 7 - Biology from the Massachusetts Institute of Technology in spring 2015. As an undergraduate, I worked in the lab of <a href="https://irvine-lab.mit.edu/">Dr. Darrell Irvine</a> and was mentored by <a href="http://gregoryszeto.com/">Dr. Greg Szeto</a>. I studied the aryl hydrocarbon receptor and its roles in innate and adaptive immunity. My work also involved the development and utilization of biocompatible drug delivery formulations for research and cancer immunotherapy.</p>
 </div>
 </div>
@@ -341,7 +351,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

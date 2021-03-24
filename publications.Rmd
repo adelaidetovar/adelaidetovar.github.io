@@ -3,7 +3,7 @@ title: ""
 output:
   html_document:
     toc: no
-pagetitle: "Adelaide Tovar - Publications"
+pagetitle: "Adelaide Tovar, Ph.D. - Publications"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
@@ -12,7 +12,7 @@ pagetitle: "Adelaide Tovar - Publications"
 
 ### Peer-Reviewed
 
-1. LT Laudermilk, **A Tovar**, AK Homstad, JM Thomas, KM McFadden, MK Tune, DO Cowley, JR Mock, F Ideraabdullah, SNP Kelada. [Baseline and innate immune response characterization of a Zfp30 knockout mouse strain.](https://doi.org/10.1007/s00335-020-09847-z) *Mamm Genome*, 2020. (epub ahead of print)
+1. LT Laudermilk, **A Tovar**, AK Homstad, JM Thomas, KM McFadden, MK Tune, DO Cowley, JR Mock, F Ideraabdullah, SNP Kelada. [Baseline and innate immune response characterization of a Zfp30 knockout mouse strain.](https://doi.org/10.1007/s00335-020-09847-z) *Mamm Genome*, 2020. 31(7), 205-214.
 
 2. **A Tovar**\*, GJ Smith\*, JM Thomas, WL Crouse, J Harkema, SNP Kelada. [Transcriptional profiling of the murine airway response to acute ozone exposure.](https://academic.oup.com/toxsci/article/173/1/114/5593669) *Toxicol Sci*, 2020. 173(1),114-130. \*co-first author
 
@@ -20,4 +20,6 @@ pagetitle: "Adelaide Tovar - Publications"
 
 ### Preprints
 
-1. GJ Smith, **A Tovar**, M Kanke, P Sethupathy, SNP Kelada. [Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.](https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1) *bioRxiv*, deposited June 17, 2020.
+1. **A Tovar**\*, WL Crouse\*, GJ Smith, JM Thomas, BP Keith, KM McFadden, TP Moran, TS Furey\*, SNP Kelada\*. [Integrative phenotypic and genomic analyses reveal strain-dependent responses to acute ozone exposure and their associations with airway macrophage transcriptional activity.](https://www.biorxiv.org/content/10.1101/2021.01.29.428733v1) *bioRxiv*, deposited Jan. 31, 2021. 
+
+2. GJ Smith, **A Tovar**, M Kanke, P Sethupathy, SNP Kelada. [Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.](https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1) *bioRxiv*, deposited June 17 2020.

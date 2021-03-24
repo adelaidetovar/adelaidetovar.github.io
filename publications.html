@@ -36,6 +36,15 @@
 
 <link rel="shortcut icon" href="images/icon.png">
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -80,6 +89,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
@@ -295,13 +305,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:edialeda@email.unc.edu">
-    <span class="fa fa-envelope"></span>
+    <span class="fas fa-envelope"></span>
      
   </a>
 </li>
 <li>
   <a href="https://twitter.com/ade__lady">
-    <span class="fa fa-twitter"></span>
+    <span class="fas fa-twitter"></span>
      
   </a>
 </li>
@@ -325,7 +335,7 @@ $(document).ready(function () {
 <div id="peer-reviewed" class="section level3">
 <h3>Peer-Reviewed</h3>
 <ol style="list-style-type: decimal">
-<li><p>LT Laudermilk, <strong>A Tovar</strong>, AK Homstad, JM Thomas, KM McFadden, MK Tune, DO Cowley, JR Mock, F Ideraabdullah, SNP Kelada. <a href="https://doi.org/10.1007/s00335-020-09847-z">Baseline and innate immune response characterization of a Zfp30 knockout mouse strain.</a> <em>Mamm Genome</em>, 2020. (epub ahead of print)</p></li>
+<li><p>LT Laudermilk, <strong>A Tovar</strong>, AK Homstad, JM Thomas, KM McFadden, MK Tune, DO Cowley, JR Mock, F Ideraabdullah, SNP Kelada. <a href="https://doi.org/10.1007/s00335-020-09847-z">Baseline and innate immune response characterization of a Zfp30 knockout mouse strain.</a> <em>Mamm Genome</em>, 2020. 31(7), 205-214.</p></li>
 <li><p><strong>A Tovar</strong>*, GJ Smith*, JM Thomas, WL Crouse, J Harkema, SNP Kelada. <a href="https://academic.oup.com/toxsci/article/173/1/114/5593669">Transcriptional profiling of the murine airway response to acute ozone exposure.</a> <em>Toxicol Sci</em>, 2020. 173(1),114-130. *co-first author</p></li>
 <li><p>M Weiser, JM Simon, B Kochar, <strong>A Tovar</strong>, JW Israel, A Robinson, GR Gipson, MS Schaner, HH Herfarth, RB Sartor, DPB McGovern, R Rahbar, TS Sadiq, MJ Koruda, TS Furey, SZ Sheikh. <a href="https://gut.bmj.com/content/67/1/36.abstract">Molecular classification of Crohns disease reveals two clinically relevant subtypes.</a> <em>Gut</em>, 2018. 67(1), 36-42.</p></li>
 </ol>
@@ -333,7 +343,8 @@ $(document).ready(function () {
 <div id="preprints" class="section level3">
 <h3>Preprints</h3>
 <ol style="list-style-type: decimal">
-<li>GJ Smith, <strong>A Tovar</strong>, M Kanke, P Sethupathy, SNP Kelada. <a href="https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1">Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.</a> <em>bioRxiv</em>, deposited June 17, 2020.</li>
+<li><p><strong>A Tovar</strong>*, WL Crouse*, GJ Smith, JM Thomas, BP Keith, KM McFadden, TP Moran, TS Furey*, SNP Kelada*. <a href="https://www.biorxiv.org/content/10.1101/2021.01.29.428733v1">Integrative phenotypic and genomic analyses reveal strain-dependent responses to acute ozone exposure and their associations with airway macrophage transcriptional activity.</a> <em>bioRxiv</em>, deposited Jan. 31, 2021.</p></li>
+<li><p>GJ Smith, <strong>A Tovar</strong>, M Kanke, P Sethupathy, SNP Kelada. <a href="https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1">Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.</a> <em>bioRxiv</em>, deposited June 17 2020.</p></li>
 </ol>
 </div>
 </div>
@@ -349,7 +360,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
