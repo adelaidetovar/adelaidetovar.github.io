@@ -10,7 +10,7 @@ navbar:
   right:
     - icon: fa-envelope
       href: mailto:tovar@umich.edu
-    - icon: fa-twitter-square
+    - icon: fa-twitter
       href: https://twitter.com/ade__lady
 output:
   html_document:
