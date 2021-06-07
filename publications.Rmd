@@ -19,7 +19,8 @@ pagetitle: "Adelaide Tovar, Ph.D. - Publications"
 3. M Weiser, JM Simon, B Kochar, **A Tovar**, JW Israel, A Robinson, GR Gipson, MS Schaner, HH Herfarth, RB Sartor, DPB McGovern, R Rahbar, TS Sadiq, MJ Koruda, TS Furey, SZ Sheikh. [Molecular classification of Crohns disease reveals two clinically relevant subtypes.](https://gut.bmj.com/content/67/1/36.abstract) *Gut*, 2018. 67(1), 36-42.
 
 ### Preprints
+1. **A Tovar**, GJ Smith, JM Thomas, KM McFadden, SNP Kelada. [A novel gene-by-environment quantitative trait locus on mouse chromosome 15 underlies suscepti bility to acute ozone-induced lung injury.](https://www.biorxiv.org/content/10.1101/2021.05.20.445039v2) *bioRxiv*, deposited May 20, 2021.
 
-1. **A Tovar**\*, WL Crouse\*, GJ Smith, JM Thomas, BP Keith, KM McFadden, TP Moran, TS Furey\*, SNP Kelada\*. [Integrative phenotypic and genomic analyses reveal strain-dependent responses to acute ozone exposure and their associations with airway macrophage transcriptional activity.](https://www.biorxiv.org/content/10.1101/2021.01.29.428733v1) *bioRxiv*, deposited Jan. 31, 2021. 
+1. **A Tovar**\*, WL Crouse\*, GJ Smith, JM Thomas, BP Keith, KM McFadden, TP Moran, TS Furey\*, SNP Kelada\*. [Integrative phenotypic and genomic analyses reveal strain-dependent responses to acute ozone exposure and their associations with airway macrophage transcriptional activity.](https://www.biorxiv.org/content/10.1101/2021.01.29.428733v1) *bioRxiv*, deposited Jan. 29, 2021. 
 
 2. GJ Smith, **A Tovar**, M Kanke, P Sethupathy, SNP Kelada. [Ozone-induced changes in murine lung extracellular vesicle number and small RNA content.](https://www.biorxiv.org/content/10.1101/2020.06.17.157156v1) *bioRxiv*, deposited June 17 2020.
