@@ -1,0 +1,40 @@
+  
+  /** Home **/
+  
+  .intro {
+    text-align: center;
+    .avatar {
+      padding: 15px;
+      img {
+        width: 250px;
+        height: auto;
+        display: inline-block;
+        -webkit-border-radius: 100%;
+        border-radius: 100%;
+      }
+    }
+  }
+  
+ .description {
+    text-align: justify;
+    padding: 15px;
+  }
+
+  h2.description {
+    font-size: 1em;
+    font-weight: normal;
+    padding: 5px;
+  }
+  
+  .social-links {
+    margin-top: 15px;
+    a {
+      padding: 5px;
+      &:hover {
+        background-color: transparent;
+      }
+    }
+    .iconfont {
+      font-size: 2em;
+    }
+  }

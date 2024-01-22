@@ -1,0 +1,13 @@
+<footer class="footer">
+    <div class="copyright">
+        &copy;
+         {{ if .Site.Params.author }}
+            <span class="author" itemprop="copyrightHolder"><a href="mailto:tovar@umich.edu">{{ .Site.Params.author  }}</a>,
+        {{ end }}
+        {{ with .Site.Params.since }}
+        <span itemprop="copyrightYear">{{.}}-{{ now.Year }}</span>
+        {{ end }}
+    </div>
+</footer>
+
+{{ partial "js.html" . }}

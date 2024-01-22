@@ -1,0 +1,20 @@
+<div class="intro">
+    {{ with .Site.Params.avatar}}
+    {{ $avatar := .}}
+   <div class="avatar">
+    <img src="{{ (printf $avatar)}}">
+    </div>
+    {{ end }}
+    {{ if or .Params.gravatar.Email (and .Site.Params.gravatar.Email (ne .Params.gravatar.Email false)) }}
+    <div class="avatar">
+			<a href="/posts/">	<img src="https://www.gravatar.com/avatar/{{ md5 .Site.Params.gravatar.email }}?s=240&d=mp" alt="gravatar"> </a>
+		</div>
+		{{ end }}
+    <div class="description">
+      {{ partial "about.html" . }}
+    </div>
+    <div class="social-links">
+      {{ partial "social.html" . }}
+  
+    </div>
+</div>
