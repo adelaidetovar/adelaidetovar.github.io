@@ -33,7 +33,7 @@ disqusShortname = ""
   name = "CV"
   identifier = "cv"
   weight = 200
-  url = "/20240924_tovar-cv.pdf"
+  url = "/tovar-cv.pdf"
 
 [params]
     since = 2020
